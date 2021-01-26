@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e681214.chunk.css",
+    "main.js": "/static/js/main.c91f7c29.chunk.js",
+    "main.js.map": "/static/js/main.c91f7c29.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c99ff0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c99ff0be.js.map",
+    "static/js/2.d6ffd17f.chunk.js": "/static/js/2.d6ffd17f.chunk.js",
+    "static/js/2.d6ffd17f.chunk.js.map": "/static/js/2.d6ffd17f.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/js/3.e9a8d2df.chunk.js": "/static/js/3.e9a8d2df.chunk.js",
+    "static/js/3.e9a8d2df.chunk.js.map": "/static/js/3.e9a8d2df.chunk.js.map",
+    "static/css/4.19dfc3d0.chunk.css": "/static/css/4.19dfc3d0.chunk.css",
+    "static/js/4.ae36947f.chunk.js": "/static/js/4.ae36947f.chunk.js",
+    "static/js/4.ae36947f.chunk.js.map": "/static/js/4.ae36947f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.092a8563b40d9eff810b41d9338c3786.js": "/precache-manifest.092a8563b40d9eff810b41d9338c3786.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
+    "static/css/4.19dfc3d0.chunk.css.map": "/static/css/4.19dfc3d0.chunk.css.map",
+    "static/css/main.8e681214.chunk.css.map": "/static/css/main.8e681214.chunk.css.map",
+    "static/js/2.d6ffd17f.chunk.js.LICENSE.txt": "/static/js/2.d6ffd17f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Codemotion_Logo.png": "/static/media/Codemotion_Logo.411bb875.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/kpi-logo.png": "/static/media/kpi-logo.4780d3e2.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nda-logo.jpg": "/static/media/nda-logo.cdcede88.jpg",
+    "static/media/qa-group.jpeg": "/static/media/qa-group.9b24cdb0.jpeg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c99ff0be.js",
+    "static/js/2.d6ffd17f.chunk.js",
+    "static/css/main.8e681214.chunk.css",
+    "static/js/main.c91f7c29.chunk.js"
+  ]
+}
